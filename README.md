@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking for ML intern jobs
 - 📫 How to reach me:
-  https://vk.com/nobody_tayjen
+  vk.com/nobody_tayjen
+  t.me/holy_guacamole0
 
 <!---
 TayJen/TayJen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
