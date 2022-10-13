@@ -8,7 +8,7 @@
   [Linkedin](https://www.linkedin.com/in/evgeny-taychinov/)
 
          
-<h2> 🛠 &nbsp;Languages & Tools</h2>
+<h2 align="center"> 🛠 &nbsp;Languages & Tools</h2>
 <p align="center">
 <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
 <img title="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt='No way' /> 
