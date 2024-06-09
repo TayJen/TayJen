@@ -14,7 +14,6 @@
 <img title="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt='No way' /> 
 <img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />
 <img title="SKLearn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" />
-<img title="XGBoost" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vqzfmqnwwgfzcoc5r9dr" width="50" height="50" />
 <img title="CatBoost" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" width="50" height="50" />
 <img title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" />
 <img title="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" width="50" height="50"/>
