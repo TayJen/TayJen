@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @TayJen (Evgeny)
-- 👀 I’m interested in Data Science, Machine Learning and Deep Neural Networks
-- 🌱 I’m currently learning and practicing DS & ML
+- 👋 Hi, I’m @TayJen (Evgeny Taychinov)
+- 👀 I’m interested in RecSys & NLP
+- 🌱 I’m currently learning and practicing ML & DL
 - 💞️ I’m looking for dating and conferences
 - 📫 How to reach me:
   [Telegram](https://t.me/holy_guacamole0 "Telegram")
-  [VK](https://vk.com/nobody_tayjen "VK")
   [Linkedin](https://www.linkedin.com/in/evgeny-taychinov/)
 
          
