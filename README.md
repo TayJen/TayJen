@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TayJen (Evgeny Taychinov)
-- 👀 I’m interested in RecSys & NLP
+- 👀 I’m interested in DL & RecSys & NLP
 - 🌱 I’m currently learning and practicing ML & DL
 - 💞️ I’m looking for dating and conferences
 - 📫 How to reach me:
